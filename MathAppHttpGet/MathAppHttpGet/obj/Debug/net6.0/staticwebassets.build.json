@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1mlQmD2cNPf9GzozcFx/Kz2wENgggyxgRIDTs8RkGWU=",
+  "Source": "MathAppHttpGet",
+  "BasePath": "_content/MathAppHttpGet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
