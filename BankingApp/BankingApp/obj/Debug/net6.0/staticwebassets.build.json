@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "zWDwHjviZxF4PRPQPk8W6hcc7jgeWm6WckLzDvfpHTI=",
+  "Source": "BankingApp",
+  "BasePath": "_content/BankingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankingApp\\wwwroot",
+      "Source": "BankingApp",
+      "ContentRoot": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\AspNetCoreUltimate\\BankingApp\\BankingApp\\wwwroot\\",
+      "BasePath": "_content/BankingApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\AspNetCoreUltimate\\BankingApp\\BankingApp\\wwwroot\\docs.pdf",
+      "SourceId": "BankingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\wassl\\OneDrive\\Pulpit\\SLAWOMIR\\Kodowanie\\AspNetCoreUltimate\\BankingApp\\BankingApp\\wwwroot\\",
+      "BasePath": "_content/BankingApp",
+      "RelativePath": "docs.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\docs.pdf"
+    }
+  ]
+}
